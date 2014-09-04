@@ -1,0 +1,8 @@
+Coursera scripts, written while studying Interactive Programming in Python.
+Still accessible by the following links:
+1. Rock Lizzard Scissors Paper Spock http://www.codeskulptor.org/#user20_rYiPZIAs5W1Lo1m.py
+2. Guesse game http://www.codeskulptor.org/#user21_Rhk5zilgg633fFR.py
+3. Stop watch http://www.codeskulptor.org/#user22_8JjinvTJni_15.py
+4. Pong http://www.codeskulptor.org/#user23_cXzVvCYPK6_12.py
+5. Memory http://www.codeskulptor.org/#user24_4NnXUeg8iv_1.py
+6. Ricerocks http://www.codeskulptor.org/#user27_2nx7ZPBtlX_3.py
