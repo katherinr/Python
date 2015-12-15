@@ -1,6 +1,5 @@
-# template for "Stopwatch: The Game"
+#  "Stopwatch: The Game"
 import simplegui
-# define global variables
 
 message = "0:00.0"
 attempts = 0   # number of clicks of the stop button
@@ -107,4 +106,4 @@ frame.add_button("Reset", reset, 100)
 # start frame
 frame.start()
 format(0)
-# Please remember to review the grading rubric
+
