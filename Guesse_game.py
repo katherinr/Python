@@ -80,6 +80,3 @@ new_game()
 
 # call new_game and start frame
 frame.start()
-
-
-# always remember to check your completed program against the grading rubric
